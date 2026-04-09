@@ -1,0 +1,26 @@
+Algorithm,Configuration,Metric,Value,Unit
+BB84,10 Qubits,Mean (Safe),0.0,%
+BB84,10 Qubits,Variance (Safe),0.0,raw
+BB84,10 Qubits,Mean (Interception),24.146626984126982,%
+BB84,10 Qubits,Variance (Interception),416.1892289855756,raw
+BB84,20 Qubits,Mean (Safe),0.0,%
+BB84,20 Qubits,Variance (Safe),0.0,raw
+BB84,20 Qubits,Mean (Interception),25.293209845709843,%
+BB84,20 Qubits,Variance (Interception),187.2973654836024,raw
+BB84,40 Qubits,Mean (Safe),0.0,%
+BB84,40 Qubits,Variance (Safe),0.0,raw
+BB84,40 Qubits,Mean (Interception),25.5202529052948,%
+BB84,40 Qubits,Variance (Interception),92.9074349236823,raw
+BB84,50 Qubits,Mean (Safe),0.0,%
+BB84,50 Qubits,Variance (Safe),0.0,raw
+BB84,50 Qubits,Mean (Interception),24.693916147282405,%
+BB84,50 Qubits,Variance (Interception),73.56522236438882,raw
+BB84,100 Qubits,Mean (Safe),0.0,%
+BB84,100 Qubits,Variance (Safe),0.0,raw
+BB84,100 Qubits,Mean (Interception),24.90331095261495,%
+BB84,100 Qubits,Variance (Interception),39.80196811756989,raw
+BB84,100 Qubits,Execution Time,0.0001455780000105733,seconds
+BB84,500 Qubits,Execution Time,0.0007649849999870639,seconds
+BB84,1000 Qubits,Execution Time,0.0013136940000185858,seconds
+BB84,5000 Qubits,Execution Time,0.0069933430000310185,seconds
+BB84,10000 Qubits,Execution Time,0.014046151000002283,seconds
